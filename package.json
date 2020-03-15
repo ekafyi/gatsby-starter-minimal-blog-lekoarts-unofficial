@@ -1,11 +1,11 @@
 {
   "private": true,
-  "name": "minimal-blog",
+  "name": "minimal-blog-lekoarts-unofficial",
   "description": "Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.",
   "version": "1.0.8",
   "author": "LekoArts <hello@lekoarts.de>",
   "license": "MIT",
-  "starter-name": "gatsby-starter-minimal-blog",
+  "starter-name": "gatsby-starter-minimal-blog-lekoarts-unofficial",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
