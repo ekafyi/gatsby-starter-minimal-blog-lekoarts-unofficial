@@ -1,6 +1,6 @@
 # LekoArts’ Minimal Blog — Unofficial Starter
 
-This is the “unofficial” starter site for [@lekoarts/gatsby-theme-minimal-blog](https://www.npmjs.com/package/@lekoarts/gatsby-theme-minimal-blog).
+This is the “unofficial” starter site for [@lekoarts/gatsby-theme-minimal-blog](https://www.npmjs.com/package/@lekoarts/gatsby-theme-minimal-blog) that adds modifications to the Blog page.
 
 <img src="https://raw.githubusercontent.com/ekafyi/gatsby-starter-minimal-blog-lekoarts-unofficial/master/screenshot-comparison.jpg" alt="Comparison between original theme and this starter site">
 
@@ -9,7 +9,7 @@ More information about the theme:
 - Theme: https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-minimal-blog
 - Original Starter: https://github.com/LekoArts/gatsby-starter-minimal-blog
 
-💡 If you have never used Gatsby before, head to their [quick start guide](https://www.gatsbyjs.org/docs/quick-start/) or [beginner-friendly tutorials](https://www.gatsbyjs.org/tutorial/). If you are familiar with Gatsby but not familiar with themes, go to their [Themes reference guide](https://www.gatsbyjs.org/tutorial/).
+💡 If you have never used Gatsby before, head to their [quick start guide](https://www.gatsbyjs.org/docs/quick-start/) or [beginner-friendly tutorials](https://www.gatsbyjs.org/tutorial/). If you are familiar with Gatsby but not familiar with themes, see their [Themes reference guide](https://www.gatsbyjs.org/tutorial/).
 
 ## Installation
 
