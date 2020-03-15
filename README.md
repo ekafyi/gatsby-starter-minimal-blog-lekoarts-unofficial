@@ -28,6 +28,8 @@ gatsby develop
 
 If adding to an existing site, follow the [regular theme installation instruction](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-minimal-blog#installation), then copy this starter’s `src` [directory content](https://github.com/ekafyi/gatsby-starter-minimal-blog-lekoarts-unofficial/tree/master/src) to your site’s `src` directory.
 
+**Note:** If you encounter `ERROR #85923 GRAPHQL`, run `SHARP_IGNORE_GLOBAL_LIBVIPS=true yarn` in your directory as discussed in [this comment](https://github.com/gatsbyjs/gatsby/issues/22191#issuecomment-598719561).
+
 ## Usage
 
 See complete usage instructions and examples [here](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-minimal-blog#usage).
