@@ -5,7 +5,7 @@ import Layout from "@lekoarts/gatsby-theme-minimal-blog/src/components/layout";
 import Listing from "@lekoarts/gatsby-theme-minimal-blog/src/components/listing";
 import SEO from "@lekoarts/gatsby-theme-minimal-blog/src/components/seo";
 import usePostTags from "../../../hooks/use-post-tags";
-import PostTags from "./post-tags";
+import TagsList from "./tags-list";
 
 // Enable if linking to the "Tags" page
 // import { Link } from "gatsby";
@@ -60,7 +60,7 @@ const Tag = ({ posts, pageContext }) => {
       </Flex>
 
       {/* Render list of tags */}
-      <PostTags list={tags} />
+      <TagsList list={tags} />
       {/* */}
 
       <Listing posts={posts} sx={{ mt: [4, 5] }} />

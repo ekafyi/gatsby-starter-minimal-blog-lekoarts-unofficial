@@ -14,7 +14,7 @@ import replaceSlashes from "@lekoarts/gatsby-theme-minimal-blog/src/utils/replac
 //   }[]
 // }
 
-const PostTags = ({ list }) => {
+const TagsList = ({ list }) => {
   const { tagsPath, basePath, blogPath } = useMinimalBlogConfig();
 
   // Styles
@@ -56,4 +56,4 @@ const PostTags = ({ list }) => {
   );
 };
 
-export default PostTags;
+export default TagsList;

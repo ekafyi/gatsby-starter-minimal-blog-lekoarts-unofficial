@@ -5,7 +5,7 @@ import Layout from "@lekoarts/gatsby-theme-minimal-blog/src/components/layout";
 import ListingByYear from "./listing-by-year";
 import SEO from "@lekoarts/gatsby-theme-minimal-blog/src/components/seo";
 import usePostTags from "../../../hooks/use-post-tags";
-import PostTags from "./post-tags";
+import TagsList from "./tags-list";
 
 // Enable if linking to the "Tags" page
 // import { Link } from "gatsby";
@@ -54,7 +54,7 @@ const Blog = ({ posts }) => {
       </Flex>
 
       {/* Render list of tags */}
-      <PostTags list={tags} />
+      <TagsList list={tags} />
       {/* */}
 
       {/* Group posts by year */}
